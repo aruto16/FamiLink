@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655202608424",
+    "firebase_url": "https://famlink-96cba.firebaseio.com",
+    "project_id": "famlink-96cba",
+    "storage_bucket": "famlink-96cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655202608424:android:39842bb8d5026700",
+        "android_client_info": {
+          "package_name": "com.example.art.familinkthesislastdraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655202608424-g05gtm9mdffv8p77i34uk816bjll3jpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.art.familinkthesislastdraft",
+            "certificate_hash": "9b4ff8c93d9a7726e14e00b984b2ae4d0872b1d3"
+          }
+        },
+        {
+          "client_id": "655202608424-k0qs65mbns1llen85vojgrhqhql6unva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6F7_-cKMHZEfVQ48vEMXg6TThuBoN8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655202608424-k0qs65mbns1llen85vojgrhqhql6unva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
